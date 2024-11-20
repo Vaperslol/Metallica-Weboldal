@@ -1,0 +1,30 @@
+nav{
+    background: linear-gradient(to right, #ffffff 0%, #949494 100%);
+}
+body{
+    background: linear-gradient(to top, #666666 0%, #999999 100%);
+}
+.card{
+    padding: 3%;
+    margin: 3%;
+    background: linear-gradient(to top right, #d3d3d3 0%, #6c6c6c 100%);
+    border-color: black;
+    border: none
+}
+
+main{
+    padding: 20px;
+    width:95%;
+    min-width: 400px;
+    max-width: 1400px;
+    margin: auto;
+}
+#banner{
+    background-image: url(kepek/bandakep.jpg);
+    height:600px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: top;
+}
